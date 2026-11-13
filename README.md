@@ -78,7 +78,7 @@ Switched the WAN firewall rule from `Pass` to `Block` with logging enabled. No p
 ## Repository Layout
 
 ```
-pfsense-perimeter-firewall-lab/
+syn-flood/
 ├── README.md
 ├── captures/       # Wireshark capture of the unmitigated SYN flood
 ├── diagrams/       # topology and attack/mitigation flow
